@@ -1,0 +1,10 @@
+#header{
+    border:1px solid;
+    height:50px;
+    background:orangered;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    padding-top:5px;
+    padding-left:5px;
+}
